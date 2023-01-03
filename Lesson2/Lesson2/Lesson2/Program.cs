@@ -40,7 +40,6 @@ public class Program
                 field[i, j] = '.';
             }
         }
-
         return field;
     }
 
